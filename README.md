@@ -23,7 +23,6 @@ to this repository's root directory, which contains this README.
 |   |-- nelder_mead/
 |   |-- nelder_mead_repair/
 |   |-- nelder_mead_random_repair/
-|   |-- nelder_mead_random_repair_old/  # Historical archive
 |   `-- gurobi/
 `-- code/
     |-- qubo_tools.py
